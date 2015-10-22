@@ -1,0 +1,2 @@
+BUILDDIR="builddir"
+REEAPPDIR="startapp"
